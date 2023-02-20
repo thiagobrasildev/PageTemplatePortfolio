@@ -7,4 +7,4 @@ Página de exemplo para um portfólio. Templete w3school
 ### React-icons
 
 
-## Projeto creado com Vite
+## Projeto criado com Vite
