@@ -1,7 +1,8 @@
 # PageTemplatePortfolio
 Página de exemplo para um portfólio. Templete w3school
 
-##Tecnologias utilizadas:
+#Tecnologias utilizadas:
+
 ### React Ts
 ### Styled-Components
 ### React-icons
