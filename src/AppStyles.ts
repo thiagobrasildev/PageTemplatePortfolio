@@ -4,9 +4,10 @@ export const ContainerMain = styled.div`
   display: flex;
   padding: 15px;
   width: 100%;
-  background-color: #f0f0f0;
   gap: 15px;
   overflow: hidden;
+  max-width: 1400px;
+  margin: 0px auto;
 
   .sidebar {
     display: flex;

@@ -5,7 +5,9 @@ export const Container = styled.div`
   flex-direction: column;
   width: 100%;
   padding: 20px 20px 20px 10px;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  &:not(:last-child) {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  }
 `;
 
 export const Title = styled.h1`
